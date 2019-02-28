@@ -122,7 +122,7 @@ See news and other projects on my [blog][2]
 [1]: https://staging.thethingsnetwork.org/wiki/Hardware/Gateways/DIY 
 [2]: https://hallard.me
 [3]: https://oshpark.com/shared_projects/BVwV2j3b
-[4]: http://www.hoperf.com/rf_transceiver/lora/
+[4]: https://www.hoperf.com/modules/lora/index.html
 [5]: https://github.com/hallard/single_chan_pkt_fwd
 [6]: http://www.daveakerman.com/?p=1719
 [7]: https://store.uputronics.com/index.php?route=product/product&search=lora&product_id=68
